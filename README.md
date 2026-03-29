@@ -1,4 +1,4 @@
-# NetFlix Clone
+# Netflix Clone
 
     A Netflix-inspired web application built with vanilla JavaScript, HTML, and CSS.
 
